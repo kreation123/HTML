@@ -1,0 +1,21 @@
+
+
+ 
+.header{
+background-color: black ;
+color:rgb(205, 92, 92)
+}
+
+.link{
+    background-color: black;
+color: red;
+}
+.link2{
+    background-color: black;
+color: red;
+}
+.chameleon{
+    display: flex;
+    transform :translate(-10%, -120%);  
+}
+
